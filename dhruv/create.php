@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Add Product</title>
+<title>dhruv</title>
 </head>
 
 <body>
